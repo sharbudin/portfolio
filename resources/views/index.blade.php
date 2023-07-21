@@ -110,8 +110,8 @@
 
           <picture>
             <source srcset="./assets/images/shaa.png" media="(min-width: 750px)">
-            <source srcset="./assets/images/shaa.jpg" media="(min-width: 500px)">
-            <img src="./assets/images/shaa.jpg" alt="A man in a blue shirt with a happy expression"
+            <source srcset="./assets/images/shaa.png" media="(min-width: 500px)">
+            <img src="./assets/images/shaa.png" alt="A man in a blue shirt with a happy expression"
               class="w-100">
           </picture>
 
