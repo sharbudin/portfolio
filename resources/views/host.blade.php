@@ -188,9 +188,13 @@
             </p>
             <pre><code class="linux-command">cd /opt/bitnami/nginx/html/portfolio/</code> <i class="far fa-copy copy-icon"></i></pre>
             <pre><code class="linux-command">php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"</code> <i class="far fa-copy copy-icon"></i></pre>
-            <pre><code class="linux-command">php -r "if (hash_file('sha384', 'composer-setup.php') === 'e21205b207c3ff031906575712edab6f13eb0b361f2085f1f1237b7126d785e826a450292b6cfd1d64d92e6563bbde02') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"</code> <i class="far fa-copy copy-icon"></i></pre>
+                        <pre><code class="linux-command">php -r "if (hash_file('sha384', 'composer-setup.php') ===
+        'e21205b207c3ff031906575712edab6f13eb0b361f2085f1f1237b7126d785e826a450292b6cfd1d64d92e6563bbde02')
+            { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); }
+            echo PHP_EOL;"</code> <i class="far fa-copy copy-icon"></i></pre>
             <pre><code class="linux-command">php composer-setup.php</code> <i class="far fa-copy copy-icon"></i></pre>
             <pre><code class="linux-command">php -r "unlink('composer-setup.php');"</code> <i class="far fa-copy copy-icon"></i></pre>
+            <pre><code class="linux-command">sudo /opt/bitnami/ctlscript.sh restart nginx && composer install</code> <i class="far fa-copy copy-icon"></i></pre>
             <p>
                 For security reasons, don't upload the .env file to Git. Instead, manually move and configure the .env file on the server with the updated Database, Mail, and other environment values.
             </p>
