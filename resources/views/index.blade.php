@@ -7,10 +7,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>I am Sharbudin</title>
 
+  {{-- <link rel="icon" href="./assets/images/favicon.ico" type="image/x-icon"> --}}
+
+
   <!--
     - favicon
   -->
-  <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="shortcut icon" href="./favicon.ico" type="image/icon">
 
   <!--
     - custom css link
