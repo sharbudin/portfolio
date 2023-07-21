@@ -64,7 +64,7 @@
         <ul class="navbar-list">
 
           <li>
-            <a href="#home" class="navbar-link">Ho</a>
+            <a href="#home" class="navbar-link">sharp</a>
           </li>
 
           <li>
