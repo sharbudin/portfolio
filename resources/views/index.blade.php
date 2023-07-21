@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Responsive Personal portfolio Website</title>
+  <title>I AM SHARBUDIN</title>
 
   <!--
     - favicon
@@ -64,7 +64,7 @@
         <ul class="navbar-list">
 
           <li>
-            <a href="#home" class="navbar-link">sharp</a>
+            <a href="#home" class="navbar-link">Home</a>
           </li>
 
           <li>
