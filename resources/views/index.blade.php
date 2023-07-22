@@ -28,6 +28,8 @@
   <link
     href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Roboto:wght@400;700&family=Saira+Stencil+One&display=swap"
     rel="stylesheet">
+    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/sweetalert2@10.10.1/dist/sweetalert2.min.css'>
+
 </head>
 
 <body id="top" class="dark_theme">
@@ -252,7 +254,7 @@
           <div class="btn-group">
             <button class="btn btn-secondary">Hire me</button>
 
-            <button class="btn btn-primary">Download cv</button>
+            <button class="btn btn-primary"><a href="{{ asset('assets/images/Sharbudin.pdf') }}" download="CV_Sharbudin">Download cv </button></a>
           </div>
 
         </div>
@@ -868,6 +870,8 @@
 
           </div>
 
+          <input type="hidden" name="_template" value="table">
+
           <button type="submit" class="btn btn-primary">Send</button>
 
         </form>
@@ -927,6 +931,7 @@
   -->
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.16.6/dist/sweetalert2.all.min.js"></script>
 
 </body>
 
