@@ -130,23 +130,30 @@
         <ul class="hero-social-list">
 
           <li>
-            <a href="#" class="hero-social-link">
+            <a href="https://www.facebook.com/sharbu.din.9" class="hero-social-link">
               <ion-icon name="logo-facebook"></ion-icon>
 
               <div class="tooltip">Facebook</div>
             </a>
           </li>
 
+
           <li>
-            <a href="#" class="hero-social-link">
+            <a href="https://www.instagram.com/your_username/" class="hero-social-link">
+              <ion-icon name="logo-instagram"></ion-icon>
+              <div class="tooltip">Instagram</div>
+            </a>
+          </li>
+          {{-- <li>
+            <a href="https://www.instagram.com/sharp_sharbudin/" class="hero-social-link">
               <ion-icon name="logo-twitter"></ion-icon>
 
               <div class="tooltip">Twitter</div>
             </a>
-          </li>
+          </li> --}}
 
           <li>
-            <a href="#" class="hero-social-link">
+            <a href="https://www.linkedin.com/in/sharbu-din-a86083115/" class="hero-social-link">
               <ion-icon name="logo-linkedin"></ion-icon>
 
               <div class="tooltip">Linkedin</div>
@@ -254,7 +261,7 @@
           <div class="btn-group">
             <button class="btn btn-secondary">Hire me</button>
 
-            <button class="btn btn-primary"><a href="{{ asset('assets/images/Sharbudin.pdf') }}" download="CV_Sharbudin">Download cv </button></a>
+            <button class="btn btn-primary"><a href="{{ asset('assets/images/Sharbudin.pdf') }}" download="Sharbudin_CV">Download cv </button></a>
           </div>
 
         </div>
@@ -772,23 +779,23 @@
               <ul class="contac-social-list">
 
                 <li>
-                  <a href="#" class="contact-social-link">
+                  <a href="https://www.facebook.com/sharbu.din.9" class="contact-social-link">
                     <div class="tooltip">Facebook</div>
 
                     <ion-icon name="logo-facebook"></ion-icon>
                   </a>
                 </li>
 
-                <li>
-                  <a href="#" class="contact-social-link">
-                    <div class="tooltip">Twitter</div>
 
-                    <ion-icon name="logo-twitter"></ion-icon>
-                  </a>
-                </li>
+          <li>
+            <a href="https://www.instagram.com/your_username/" class="hero-social-link">
+              <div class="tooltip">Instagram</div>
+              <ion-icon name="logo-instagram"></ion-icon>
+            </a>
+          </li>
 
                 <li>
-                  <a href="#" class="contact-social-link">
+                  <a href="https://www.linkedin.com/in/sharbu-din-a86083115/" class="contact-social-link">
                     <div class="tooltip">Linkedin</div>
 
                     <ion-icon name="logo-linkedin"></ion-icon>
@@ -796,7 +803,7 @@
                 </li>
 
                 <li>
-                  <a href="#" class="contact-social-link">
+                  <a href="https://www.youtube.com/channel/UCwrQGkUNWk8WlaPjgx54T_Q" class="contact-social-link">
                     <div class="tooltip">Youtube</div>
 
                     <ion-icon name="logo-youtube"></ion-icon>
