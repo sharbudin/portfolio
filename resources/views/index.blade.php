@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>I͎ ͎a͎m͎ ͎s͎h͎a͎r͎b͎u͎d͎i͎n͎</title>
+  <title>I am Sharbudin</title>
 
   {{-- <link rel="icon" href="./assets/images/favicon.ico" type="image/x-icon"> --}}
 
@@ -597,7 +597,7 @@
               <div class="card-content">
                 <h3 class="h4 card-title">Lorem Ipsum Dolor 02</h3>
 
-                <time class="publish-date" datetime="2022-04">April 2022</time>
+                <time class="publish-date" datetime="2022-04">May 2022</time>
               </div>
 
             </a>
@@ -614,7 +614,7 @@
               <div class="card-content">
                 <h3 class="h4 card-title">Lorem Ipsum Dolor 03</h3>
 
-                <time class="publish-date" datetime="2022-04">April 2022</time>
+                <time class="publish-date" datetime="2022-04">Jun 2022</time>
               </div>
 
             </a>
@@ -631,7 +631,7 @@
               <div class="card-content">
                 <h3 class="h4 card-title">Lorem Ipsum Dolor 04</h3>
 
-                <time class="publish-date" datetime="2022-04">April 2022</time>
+                <time class="publish-date" datetime="2022-04">July 2022</time>
               </div>
 
             </a>
@@ -648,7 +648,7 @@
               <div class="card-content">
                 <h3 class="h4 card-title">Lorem Ipsum Dolor 05</h3>
 
-                <time class="publish-date" datetime="2022-04">April 2022</time>
+                <time class="publish-date" datetime="2022-04">Augest 2022</time>
               </div>
 
             </a>
@@ -665,7 +665,7 @@
               <div class="card-content">
                 <h3 class="h4 card-title">Lorem Ipsum Dolor 06</h3>
 
-                <time class="publish-date" datetime="2022-04">April 2022</time>
+                <time class="publish-date" datetime="2022-04">November 2022</time>
               </div>
 
             </a>
@@ -682,7 +682,7 @@
               <div class="card-content">
                 <h3 class="h4 card-title">Lorem Ipsum Dolor 07</h3>
 
-                <time class="publish-date" datetime="2022-04">April 2022</time>
+                <time class="publish-date" datetime="2022-04">December 2022</time>
               </div>
 
             </a>
@@ -808,7 +808,7 @@
 
         </div>
 
-        <form action="" class="contact-form">
+        <form action="https://formsubmit.co/sharbudin1234@gmail.com" method="post" class="contact-form">
 
           <div class="form-wrapper">
 
@@ -816,7 +816,7 @@
 
             <div class="input-wrapper">
 
-              <input type="text" name="name" id="name" required placeholder="e.g sharbudin" class="input-field">
+              <input type="text" name="name" required id="name" required placeholder="e.g sharbudin" class="input-field">
 
               <ion-icon name="person-circle"></ion-icon>
 
@@ -830,7 +830,7 @@
 
             <div class="input-wrapper">
 
-              <input type="email" name="email" id="email" required placeholder="e.g sharbudin1234@gmail.com"
+              <input type="email" name="email" required id="email" required placeholder="e.g sharbudin1234@gmail.com"
                 class="input-field">
 
               <ion-icon name="mail"></ion-icon>
@@ -859,7 +859,7 @@
 
             <div class="input-wrapper">
 
-              <textarea name="message" id="message" required placeholder="Write message..."
+              <textarea name="message" required id="message" required placeholder="Write message..."
                 class="input-field"></textarea>
 
               <ion-icon name="chatbubbles"></ion-icon>
