@@ -28,3 +28,7 @@ Route::get('ckeditor', function(){
 Route::get('/', function(){
     return view('index');
 });
+
+Route::get('/hosting', function(){
+    return view('host');
+});
