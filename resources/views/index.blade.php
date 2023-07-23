@@ -259,9 +259,9 @@
           </p>
 
           <div class="btn-group">
-            <button class="btn btn-secondary">Hire me</button>
+            <button class="btn btn-secondary"><a href="https://mail.google.com/mail/u/0/?hl=en&view=cm&tf=1&fs=1&to=[email]" style="color: white;">Hire me</button></a>
 
-            <button class="btn btn-primary"><a href="{{ asset('assets/images/Sharbudin.pdf') }}" download="Sharbudin_CV">Download cv </button></a>
+            <button class="btn btn-secondary"><a href="{{ asset('assets/images/Sharbudin.pdf') }}" style="color: white;" download="Sharbudin_CV">Download cv </button></a>
           </div>
 
         </div>
@@ -768,9 +768,9 @@
               <div class="wrapper">
                 <h3 class="h4 contact-item-title">Email:</h3>
 
-                <a href="mailto:info@jack.com" class="contact-info">sharbudin1234@gmail.com</a>
+                <a href="sharbudin1234@gmail.com" class="contact-info">sharbudin1234@gmail.com</a>
 
-                <a href="mailto:support@jack.com" class="contact-info">k.sharbudin@stellaripl.com</a>
+                <a href="k.sharbudin@stellaripl.com" class="contact-info">k.sharbudin@stellaripl.com</a>
               </div>
 
             </li>

@@ -441,7 +441,7 @@ body.active { overflow: hidden; }
 .navbar-link::before {
   content: "";
   position: absolute;
-  top: 50%;
+  top: 65%;
   transform: translateY(-50%);
   left: 0;
   height: 5px;
@@ -450,10 +450,8 @@ body.active { overflow: hidden; }
   transition: var(--transition-1);
 }
 
-.navbar-link:is(:hover, :focus)::before { width: 100%; }
 
-
-
+.navbar-link:is(:hover, :focus)::before { width: 100%;  box-shadow: 0 0 10px 3px rgba(4, 4, 4, 0.889); }
 
 
 /*-----------------------------------*\
