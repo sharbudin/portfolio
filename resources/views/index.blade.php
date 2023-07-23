@@ -770,7 +770,7 @@
 
                 <a href="mailto:info@jack.com" class="contact-info">sharbudin1234@gmail.com</a>
 
-                <a href="mailto:support@jack.com" class="contact-info">k.sharbudin@stellaripl.com.com</a>
+                <a href="mailto:support@jack.com" class="contact-info">k.sharbudin@stellaripl.com</a>
               </div>
 
             </li>
