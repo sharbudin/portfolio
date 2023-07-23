@@ -391,7 +391,7 @@
                 </div>
               </div>
             </li>
-
+{{--
             <li>
               <div class="skill-card">
                 <div class="tooltip">Firebase</div>
@@ -400,7 +400,7 @@
                   <img src="./assets/images/firebase.png" alt="Firebase logo">
                 </div>
               </div>
-            </li>
+            </li> --}}
 
             <li>
               <div class="skill-card">
@@ -412,7 +412,7 @@
               </div>
             </li>
 
-            <li>
+            {{-- <li>
               <div class="skill-card">
                 <div class="tooltip">SASS</div>
 
@@ -420,7 +420,7 @@
                   <img src="./assets/images/sass.png" alt="SASS logo">
                 </div>
               </div>
-            </li>
+            </li> --}}
 
           </ul>
 
@@ -436,7 +436,7 @@
               </div>
             </li>
 
-            <li>
+            {{-- <li>
               <div class="skill-card">
                 <div class="tooltip">Gulp</div>
 
@@ -444,9 +444,9 @@
                   <img src="./assets/images/gulp.png" alt="Gulp logo">
                 </div>
               </div>
-            </li>
+            </li> --}}
 
-            <li>
+            {{-- <li>
               <div class="skill-card">
                 <div class="tooltip">Webpack</div>
 
@@ -454,7 +454,7 @@
                   <img src="./assets/images/webpack.png" alt="Webpack logo">
                 </div>
               </div>
-            </li>
+            </li> --}}
 
             <li>
               <div class="skill-card">
@@ -466,7 +466,7 @@
               </div>
             </li>
 
-            <li>
+            {{-- <li>
               <div class="skill-card">
                 <div class="tooltip">Npm</div>
 
@@ -474,7 +474,7 @@
                   <img src="./assets/images/npm.png" alt="Npm logo">
                 </div>
               </div>
-            </li>
+            </li> --}}
 
             <li>
               <div class="skill-card">
@@ -496,7 +496,7 @@
               </div>
             </li>
 
-            <li>
+            {{-- <li>
               <div class="skill-card">
                 <div class="tooltip">Trello</div>
 
@@ -504,9 +504,9 @@
                   <img src="./assets/images/trello.png" alt="Trello logo">
                 </div>
               </div>
-            </li>
+            </li> --}}
 
-            <li>
+            {{-- <li>
               <div class="skill-card">
                 <div class="tooltip">ClickUp</div>
 
@@ -514,7 +514,7 @@
                   <img src="./assets/images/clickup.png" alt="ClickUp logo">
                 </div>
               </div>
-            </li>
+            </li> --}}
 
             <li>
               <div class="skill-card">
