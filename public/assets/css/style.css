@@ -441,7 +441,7 @@ body.active { overflow: hidden; }
 .navbar-link::before {
   content: "";
   position: absolute;
-  top: 65%;
+  top: 75%;
   transform: translateY(-50%);
   left: 0;
   height: 5px;
